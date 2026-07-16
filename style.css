@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(0, 5, 10);
+    
+}
+
+nav{
+    background:cadetblue;
+    width: 100%;
+}
+
+h1{
+    color: antiquewhite;
+}
